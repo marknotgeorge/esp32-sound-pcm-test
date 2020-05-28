@@ -6,3 +6,6 @@
 	path = components/esp32-sound-pcm
 	url = https://github.com/v1993/esp32-sound-pcm
 	branch = master
+[submodule "components/esp32-sound-rttl"]
+	path = components/esp32-sound-rttl
+	url = https://github.com/marknotgeorge/esp32-sound-rttl.git
